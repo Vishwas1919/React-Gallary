@@ -1,0 +1,9 @@
+.cut{
+    position: absolute;
+    top: 14px;
+    right: 29px;
+    font-size: 25px;
+    border-radius: 50%;
+    color: red;
+    background-color: white;
+}
